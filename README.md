@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, Python, JavaScript, React, Node.js, AWS, and any general software development questions.**
 
-- 📫 How to reach me **shahutkarshm@gmail.com**
+- 📫 How to reach me **shah.utkarsh.267@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
