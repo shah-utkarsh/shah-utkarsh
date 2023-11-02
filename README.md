@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shah-utkarsh&show_icons=true&locale=en&layout=compact" alt="shah-utkarsh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shah-utkarsh&show_icons=true&locale=en" alt="shah-utkarsh" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shah-utkarsh&" alt="shah-utkarsh" /></p>
