@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shah Utkarsh</h1>
-<h3 align="center">A passionate Cloud and Full Stack Developer.</h3>
+<h3 align="center">A passionate Software and Cloud Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shah-utkarsh&label=Profile%20views&color=0e75b6&style=flat" alt="shah-utkarsh" /> </p>
 
